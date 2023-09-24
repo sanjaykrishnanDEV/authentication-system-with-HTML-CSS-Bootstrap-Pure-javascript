@@ -1,0 +1,28 @@
+.wrapper{
+    background-color: #D4FCC3;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+}
+.userdetails{
+    height: 45vh;
+    width: 25vw;
+    background-color: #3B1C32;
+    display: flex;
+    justify-content: center;
+}
+/* .icon{
+    background-color: #5FBFF9;
+    height: 150px;
+    width: 150px;
+    position: relative;
+top: -60px;
+
+    border-radius: 50%;
+} */
+img{
+    border-radius: 50%;
+    
+}
